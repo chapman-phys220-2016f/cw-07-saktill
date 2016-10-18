@@ -1,8 +1,8 @@
 # PHYS220 CW 7
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\<Will and Sakthi\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-07-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-07-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-07-saktill)
 
 **Due date:** 2016/10/18
 
@@ -23,7 +23,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+This assignment seemed like mainly more of the same, in terms of making us do seemingly simple things, but on the computer instead of on paper. However it's also cool to be able to plot a solution to something using numerical approximation without actually solving your equation. That's exciting news for when/if we get to a solution at some point that doesn't have a closed form solution.
 
 ## Honor Pledge
 
@@ -34,4 +34,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Saktill
