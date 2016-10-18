@@ -25,12 +25,17 @@ def eulers_method(fprime,f0,a,b,n):
     deltaT = (b-a)/float(n)
     f = np.zeros(n+1)
     f[0] = f0
+    fP = fprime(t)
     for k in range(0,n,1):
-        f[k+1] = f[k] + (fprime[k])*deltaT
+        f[k+1] = f[k] + (fP[k])*deltaT
 
 
         t[k+1] = t[k] + deltaT
 
     return f,t
+
+
+
+
 
 
